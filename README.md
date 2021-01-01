@@ -1,2 +1,2 @@
-# KeyValueDataStorer
+# KeyValueDataStore
 Assignment for FreshWorks
