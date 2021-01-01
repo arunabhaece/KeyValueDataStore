@@ -1,0 +1,4 @@
+{"Electronic Device":[{"Brand":"Samsung","Price":40000,"Model":"Galaxy S10","Device Type":"SmartPhone"},2147483647000,1609503342333]}
+{"ABC":[{"employees":[{"name":"Shyam","email":"shyamjaiswal@gmail.com"},{"name":"Bob","email":"bob32@gmail.com"},{"name":"Jai","email":"jai87@gmail.com"}]},2147483647000,1609503342341]}
+{"MyKey":[{"isAvailable":true,"Channel no":100,"Genre":"news"},15000,1609503342346]}
+{"Lets test":[{"isAvailable":true,"Channel no":100,"Genre":"news"},20000,1609503342349]}
